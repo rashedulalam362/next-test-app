@@ -6,7 +6,9 @@ export async function GET(){
      
     },{
         status: 200,
-        headers: { 'Set-Cookie': 'theme=dark; Path=/' },
+        headers: { 'Set-Cookie': 'theme=dark; Path=/' ,
+        'Set-Cookie2': 'theme2=dark2; Path=/'
+    },
 
 
     }
