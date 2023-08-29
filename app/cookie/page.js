@@ -8,7 +8,7 @@ function page() {
     // console.log(theme.value)
     const {value} = theme
   return (
-    <div className="mx auto">
+    <div className="">
       
    <Show_cookie cookie={value}/>
     </div>
