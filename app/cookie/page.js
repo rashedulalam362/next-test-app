@@ -8,7 +8,7 @@ function page() {
     // console.log(theme.value)
     const {value} = theme
   return (
-    <div className="">
+    <div >
       
    <Show_cookie cookie={value}/>
     </div>

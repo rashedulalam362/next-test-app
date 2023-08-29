@@ -7,7 +7,7 @@ function Show_cookie({cookie}) {
     return (
     
     <div className="flex justify-center mt-5">
-      <button onClick={clickHandler} className="bg-green-300 p-2 text-centre ">Show-Cookie</button>  
+      <button onClick={clickHandler} className="bg-green-300 p-3 text-centre rounded-md ">Show-Cookie</button>  
     </div>
   )
 }
