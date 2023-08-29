@@ -1,7 +1,15 @@
 
-
 export default function Home() {
+  
   return (
-    <h2 className='bg-gray-300 text-center p-2 capitalize text-3xl'>Blog-text-app</h2>
-  )
-}
+    
+    <div>
+       <h2 className="bg-red-900 text-center font-semibold text-white p-3 capitalize">blog test-app</h2>
+    </div>
+ 
+    
+
+
+
+  )}
+
