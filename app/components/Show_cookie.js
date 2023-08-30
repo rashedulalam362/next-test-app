@@ -1,7 +1,7 @@
 'use client';
 function Show_cookie({cookie}) {
     const clickHandler=()=>{
-        console.log(cookie)
+        // console.log(cookie)
         alert(`The theme is: ${cookie}`)
     }
     return (
